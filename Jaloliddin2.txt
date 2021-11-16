@@ -1,0 +1,34 @@
+1.BookHome
+2.Bu sayt o`quvchi,talabalar va barcha kitobxonlar uchun ishonchli va kerakli kitoblar bilan taminlash.
+3.Bu sayt barcha kitobxonlar va ilm izlovchi yoshlarga(maktab o`quchilari, talabalar va boshqalarga)
+4.bu saytdan kitoblarni onlayn xarid qilsa bo`ladi dastavka xizmati mavjud.Yangi yozuchilarning kitoblarini
+reklama qilib kitobxonlarga taqdim etish. Kitoblarni ijaraga berish. Oylik yoki yillik azo bo`lish.(3.49$ -49.99$)
+5.Elekton va chizma holatda toshiramiz.
+6.Per hour soatiga-150$
+7.     10-noyabrdan 13-noyabrgacha--qoralama
+       14-20-noyabrgacha--high fidelity
+       21-noyabrdan 1-dekabrgacha--codding
+       1-dekabrdan 4-dekabrgacha--testing
+       5-dekabrda toshiraman--finished product
+
+
+
+
+
+
+
+BookHome
+1.Logo
+2.navbar
+       1.1 Home page
+       1.2 Cotegory
+       1.3 Contact
+       1.4 Fovourite
+       1.5 Search
+       1.6 Basket
+       1.7 Log in
+3.Chegirmalar
+4. Eng ko`p o`qilganlar
+5.User feadback
+6. Futter
+7. Dowload
